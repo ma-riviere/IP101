@@ -1,4 +1,5 @@
-matplotlib > 3.0
-numpy> 1.16
-opencv-python == 3.4.5.20
-scikit-image > 0.14
+jupyterlab
+matplotlib
+opencv-python
+scikit-image
+Pillow
