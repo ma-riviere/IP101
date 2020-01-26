@@ -1,5 +1,9 @@
 jupyterlab
+notebook
 matplotlib
+scipy
 opencv-python
 scikit-image
 Pillow
+ipywidgets
+seaborn
