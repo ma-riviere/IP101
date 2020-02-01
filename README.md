@@ -1,28 +1,27 @@
 [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ma-riviere/IP101.git/master)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ma-riviere/IP101/)
 
-# IP101
-Image Processing with Python and Jupyter Notebooks:
-1. Introduction:
+# IP101: Image Processing with Python and Jupyter Notebooks
+
+## 1. Introduction:
  * Manipulating image files
  * Drawing on images & masking
  * Basic transformations: cropping, affine transformations, rotations, ...
 
 
-2. Gray level manipulation: 
+## 2. Gray level manipulation: 
  * Histograms, 
  * Exposition & contrast
  * Linear transformations: contrast stretching & equalization
  * Non-linear transformations: log and gamma transforms
 
 
-3. Morphological operations:
+## 3. Morphological operations:
 
 
-4. Filtering and Convolutions:
+## 4. Filtering and Convolutions:
 
 
-5. Segmentation:
+## 5. Segmentation:
 
 
-6. Feature detection and tracking:
+## 6. Feature detection and tracking:
