@@ -32,7 +32,8 @@
 
 
 ## 5. Segmentation:
- **_TODO_**
+ * Simple segmentation: Global thresholding, Otsu's method, Adaptative Thresholding
+ * Automatic methods: Mean-Shift, Watershed, SuperPixels
 
 
 ***
