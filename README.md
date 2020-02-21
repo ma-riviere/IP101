@@ -32,8 +32,8 @@
 
 
 ## 5. Segmentation:
- * Simple segmentation: Global thresholding, Otsu's method, Adaptative Thresholding
- * Automatic methods: Mean-Shift, Watershed, SuperPixels
+ * Simple Thresholding methods: Global thresholding, Otsu's method, Adaptative Thresholding
+ * Unsupervised segmentation: Mean-Shift, Watershed, SuperPixels, Region Adjacency Graph
 
 
 ***
